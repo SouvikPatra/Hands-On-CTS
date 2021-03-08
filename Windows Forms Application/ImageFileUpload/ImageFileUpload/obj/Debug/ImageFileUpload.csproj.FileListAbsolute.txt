@@ -1,0 +1,10 @@
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\bin\Debug\ImageFileUpload.exe.config
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\bin\Debug\ImageFileUpload.exe
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\bin\Debug\ImageFileUpload.pdb
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\obj\Debug\ImageFileUpload.csprojAssemblyReference.cache
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\obj\Debug\ImageFileUpload.Form1.resources
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\obj\Debug\ImageFileUpload.Properties.Resources.resources
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\obj\Debug\ImageFileUpload.csproj.GenerateResource.cache
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\obj\Debug\ImageFileUpload.csproj.CoreCompileInputs.cache
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\obj\Debug\ImageFileUpload.exe
+C:\Users\windo 10\source\repos\ImageFileUpload\ImageFileUpload\obj\Debug\ImageFileUpload.pdb
