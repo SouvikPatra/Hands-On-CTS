@@ -1,0 +1,13 @@
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.exe
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.deps.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.dev.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csprojAssemblyReference.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfoInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfo.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.CoreCompileInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.genruntimeconfig.cache

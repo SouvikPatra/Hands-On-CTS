@@ -1,0 +1,37 @@
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\MVC Application.exe
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\MVC Application.deps.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\MVC Application.runtimeconfig.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\MVC Application.runtimeconfig.dev.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\MVC Application.dll
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\MVC Application.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\MVC Application.Views.dll
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\bin\Debug\netcoreapp3.1\MVC Application.Views.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.csprojAssemblyReference.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.AssemblyInfoInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.AssemblyInfo.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.csproj.CoreCompileInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.MvcApplicationPartsAssemblyInfo.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.RazorAssemblyInfo.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.RazorAssemblyInfo.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\staticwebassets\MVC Application.StaticWebAssets.Manifest.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\staticwebassets\MVC Application.StaticWebAssets.xml
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVC Application.styles.css
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.TagHelpers.input.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.TagHelpers.output.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.RazorCoreGenerate.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.RazorTargetAssemblyInfo.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.RazorTargetAssemblyInfo.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.Views.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.dll
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.genruntimeconfig.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\MVC Application\MVC Application\obj\Debug\netcoreapp3.1\MVC Application.csproj.CopyComplete

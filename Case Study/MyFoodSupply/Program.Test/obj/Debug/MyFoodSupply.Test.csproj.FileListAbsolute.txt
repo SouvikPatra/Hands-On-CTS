@@ -1,0 +1,17 @@
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\NUnit3.TestAdapter.dll
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\NUnit3.TestAdapter.pdb
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\nunit.engine.dll
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\nunit.engine.api.dll
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\nunit.engine.core.dll
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\Program.Test.dll
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\Program.Test.pdb
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\MyFoodSupply.exe
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\nunit.framework.dll
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\MyFoodSupply.pdb
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\MyFoodSupply.exe.config
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\bin\Debug\nunit.framework.xml
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\obj\Debug\MyFoodSupply.Test.csprojAssemblyReference.cache
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\obj\Debug\MyFoodSupply.Test.csproj.CoreCompileInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\obj\Debug\MyFoodSupply.Test.csproj.CopyComplete
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\obj\Debug\Program.Test.dll
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\Program.Test\obj\Debug\Program.Test.pdb

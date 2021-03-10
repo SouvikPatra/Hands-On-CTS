@@ -1,0 +1,38 @@
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\List_ a_Few_Organizations.exe
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\List_ a_Few_Organizations.deps.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\List_ a_Few_Organizations.runtimeconfig.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\List_ a_Few_Organizations.runtimeconfig.dev.json
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\List_ a_Few_Organizations.dll
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\List_ a_Few_Organizations.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\List_ a_Few_Organizations.Views.dll
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\bin\Debug\netcoreapp3.1\List_ a_Few_Organizations.Views.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.csprojAssemblyReference.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.AssemblyInfoInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.AssemblyInfo.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.csproj.CoreCompileInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.MvcApplicationPartsAssemblyInfo.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.RazorAssemblyInfo.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.RazorAssemblyInfo.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\staticwebassets\List_ a_Few_Organizations.StaticWebAssets.Manifest.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\staticwebassets\List_ a_Few_Organizations.StaticWebAssets.xml
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\scopedcss\bundle\List_ a_Few_Organizations.styles.css
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.TagHelpers.input.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.TagHelpers.output.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.RazorCoreGenerate.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\Razor\Views\Home\ITOrganizations.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.RazorTargetAssemblyInfo.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.RazorTargetAssemblyInfo.cs
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.Views.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.dll
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.pdb
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.genruntimeconfig.cache
+F:\Hands-On CTS\Hands-On-CTS\ASP.NET Core\List_ a_Few_Organizations\List_ a_Few_Organizations\obj\Debug\netcoreapp3.1\List_ a_Few_Organizations.csproj.CopyComplete

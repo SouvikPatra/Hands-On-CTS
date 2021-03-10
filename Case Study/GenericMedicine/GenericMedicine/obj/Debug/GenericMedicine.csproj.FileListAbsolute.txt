@@ -1,0 +1,7 @@
+F:\Hands-On CTS\Hands-On-CTS\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+F:\Hands-On CTS\Hands-On-CTS\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe
+F:\Hands-On CTS\Hands-On-CTS\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.pdb
+F:\Hands-On CTS\Hands-On-CTS\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csprojAssemblyReference.cache
+F:\Hands-On CTS\Hands-On-CTS\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.exe
+F:\Hands-On CTS\Hands-On-CTS\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.pdb

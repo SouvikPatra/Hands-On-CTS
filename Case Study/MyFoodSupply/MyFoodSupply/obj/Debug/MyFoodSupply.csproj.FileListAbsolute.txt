@@ -1,0 +1,7 @@
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe.config
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csprojAssemblyReference.cache
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CoreCompileInputs.cache
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
+F:\Hands-On CTS\Hands-On-CTS\Case Study\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb

@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var Organization = new List<string>()
+    {
+        "Microsoft www.microsoft.com",
+        "CTS www.cognizant.com",
+        "Google",
+        "Amazon",
+        "TCS"
+    };
+}
+
+<!DOCTYPE html>
+<head>
+    <title>It Organizations</title>
+</head>
+<body>
+    <h1>It Otganizations</h1>
+    <div>
+        <ul>
+            @foreach(var org in Organization)
+            {
+                @if (org == "Amazon")
+                {
+                    <li><span class="font-weight-bold">@org</span></li>
+                }
+                else { 
+                    <li>@org</li>
+                }
+            }
+        </ul>
+    </div>
+</body>
